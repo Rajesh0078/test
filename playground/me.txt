@@ -1,7 +1,0 @@
-
-{{#user}
-Name: Rajesh
-Skills: HTML, CSS, JS, Next.js
-Email: peketirajesh007@gmail.com
-{{/user}}
-}
